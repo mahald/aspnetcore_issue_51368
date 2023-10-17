@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizeView_gitIssue_51368", "AuthorizeView_gitIssue_51368\AuthorizeView_gitIssue_51368\AuthorizeView_gitIssue_51368.csproj", "{0EEED6A2-A1D5-4BFE-BC7C-2622C559272F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizeView_gitIssue_51368.Client", "AuthorizeView_gitIssue_51368\AuthorizeView_gitIssue_51368.Client\AuthorizeView_gitIssue_51368.Client.csproj", "{438F0AC1-E98F-49DD-AABD-1A2A4267A364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEED6A2-A1D5-4BFE-BC7C-2622C559272F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEED6A2-A1D5-4BFE-BC7C-2622C559272F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEED6A2-A1D5-4BFE-BC7C-2622C559272F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEED6A2-A1D5-4BFE-BC7C-2622C559272F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438F0AC1-E98F-49DD-AABD-1A2A4267A364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438F0AC1-E98F-49DD-AABD-1A2A4267A364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438F0AC1-E98F-49DD-AABD-1A2A4267A364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438F0AC1-E98F-49DD-AABD-1A2A4267A364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {714FB2C7-4D49-4CD7-A508-DA14F30C5A9C}
+	EndGlobalSection
+EndGlobal
